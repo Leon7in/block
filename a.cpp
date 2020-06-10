@@ -55,5 +55,5 @@ int main(int argc, char ** argv)
 	get_args(argc, argv);
 	process_data();
 	print_results();
-	return 0;
+
 }
